@@ -61,6 +61,6 @@ case class BerlinTime( firstRow:String, secondRow:String, thirdRow:String, fourt
     secondRow + "\n" +
     thirdRow + "\n" +
     fourthRow + "\n" +
-    fifthRow + "\n"
+    fifthRow
   }
 }
