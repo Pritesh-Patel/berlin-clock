@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mBerlinClockSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mBerlin clock[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a top lamp (yellow) that blinks every 2 seconds[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a second row (red) that represents 5 hours[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a third row (red) that represents 1 hour[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a fourth row (yellow & red) that represents minutes and 15 minute intervals[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a fifth row (yellow) that represents single minutes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should convert time correctly[0m[0m
