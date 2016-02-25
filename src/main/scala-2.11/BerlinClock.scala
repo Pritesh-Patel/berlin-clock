@@ -36,7 +36,7 @@ object BerlinClock {
   }
 
   def berlinFourthRow(minutes:Int) : String ={
-    lightUp(minutes / 5,11,"Y").replace("YYY","YYR")
+    lightUp(minutes / 5,11,"Y").replaceAll("YYY","YYR")
 
   }
 
